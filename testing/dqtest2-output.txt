@@ -1,0 +1,50 @@
+
+
+Deque Class Test Program 2 - START
+[] size=0, cursor=NULL.
+[4;3;2;1;101;102;103;104;] size=8, cursor=1.
+removing 4
+[3;2;1;101;102;103;104;] size=7, cursor=1.
+removing 3
+[2;1;101;102;103;104;] size=6, cursor=1.
+removing 2
+[1;101;102;103;104;] size=5, cursor=1.
+removing 1
+[101;102;103;104;] size=4, cursor=101.
+removing 101
+[102;103;104;] size=3, cursor=102.
+removing 102
+[103;104;] size=2, cursor=103.
+removing 103
+[104;] size=1, cursor=104.
+removing 104
+[] size=0, cursor=NULL.
+[4;3;2;1;101;102;103;104;] size=8, cursor=1.
+removing 104
+[4;3;2;1;101;102;103;] size=7, cursor=1.
+removing 103
+[4;3;2;1;101;102;] size=6, cursor=1.
+removing 102
+[4;3;2;1;101;] size=5, cursor=1.
+removing 101
+[4;3;2;1;] size=4, cursor=1.
+removing 1
+[4;3;2;] size=3, cursor=2.
+removing 2
+[4;3;] size=2, cursor=3.
+removing 3
+[4;] size=1, cursor=4.
+removing 4
+[] size=0, cursor=NULL.
+
+
+Deque Class Test Program 2 - DONE
+
+
+
+
+
+
+
+
+

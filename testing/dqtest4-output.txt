@@ -1,0 +1,12 @@
+
+
+Deque Class Test Program 4 - START
+
+[8;7;6;5;4;3;2;1;] size=8, cursor=4.
+[8;7;6;5;4;3;2;1;] size=8, cursor=4.
+[8;7;6;8;4;3;2;1;] size=8, cursor=8.
+[8;7;6;5;4;9;2;1;] size=8, cursor=9.
+[5;4;3;2;1;] size=5, cursor=3.
+[5;4;3;2;1;] size=5, cursor=3.
+[5;8;3;2;1;] size=5, cursor=8.
+[5;4;3;9;1;] size=5, cursor=9.
